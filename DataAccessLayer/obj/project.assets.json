@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/nevzatcancirpicioglu/OunoTest-1/DataAccessLayer/DataAccessLayer.csproj",
+      "projectUniqueName": "/Users/nevzatcancirpicioglu/OunoTest/DataAccessLayer/DataAccessLayer.csproj",
       "projectName": "DataAccessLayer",
-      "projectPath": "/Users/nevzatcancirpicioglu/OunoTest-1/DataAccessLayer/DataAccessLayer.csproj",
+      "projectPath": "/Users/nevzatcancirpicioglu/OunoTest/DataAccessLayer/DataAccessLayer.csproj",
       "packagesPath": "/Users/nevzatcancirpicioglu/.nuget/packages/",
-      "outputPath": "/Users/nevzatcancirpicioglu/OunoTest-1/DataAccessLayer/obj/",
+      "outputPath": "/Users/nevzatcancirpicioglu/OunoTest/DataAccessLayer/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/nevzatcancirpicioglu/.nuget/NuGet/NuGet.Config"

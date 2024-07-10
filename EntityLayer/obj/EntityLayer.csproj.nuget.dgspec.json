@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/nevzatcancirpicioglu/OunoTest-1/EntityLayer/EntityLayer.csproj": {}
+    "/Users/nevzatcancirpicioglu/OunoTest/EntityLayer/EntityLayer.csproj": {}
   },
   "projects": {
-    "/Users/nevzatcancirpicioglu/OunoTest-1/EntityLayer/EntityLayer.csproj": {
+    "/Users/nevzatcancirpicioglu/OunoTest/EntityLayer/EntityLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/nevzatcancirpicioglu/OunoTest-1/EntityLayer/EntityLayer.csproj",
+        "projectUniqueName": "/Users/nevzatcancirpicioglu/OunoTest/EntityLayer/EntityLayer.csproj",
         "projectName": "EntityLayer",
-        "projectPath": "/Users/nevzatcancirpicioglu/OunoTest-1/EntityLayer/EntityLayer.csproj",
+        "projectPath": "/Users/nevzatcancirpicioglu/OunoTest/EntityLayer/EntityLayer.csproj",
         "packagesPath": "/Users/nevzatcancirpicioglu/.nuget/packages/",
-        "outputPath": "/Users/nevzatcancirpicioglu/OunoTest-1/EntityLayer/obj/",
+        "outputPath": "/Users/nevzatcancirpicioglu/OunoTest/EntityLayer/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/nevzatcancirpicioglu/.nuget/NuGet/NuGet.Config"
