@@ -8,6 +8,6 @@ namespace DataAccessLayer.Repository
 {
     public interface IProductRepository
     {
-        Task<List<Product>> GetAllProducts(int categoryId);
+        Task<List<Product>> GetProductsByCategory(int categoryId);
     }
 }

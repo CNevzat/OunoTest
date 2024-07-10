@@ -17,7 +17,7 @@ namespace DataAccessLayer.Repository
             _applicationDbContext = applicationDbContext;
         }
 
-        public async Task<List<Product>> GetAllProducts(int categoryId)
+        public async Task<List<Product>> GetProductsByCategory(int categoryId)
         {
             var products =  await _applicationDbContext.Products
             .Where(x=> x.CategoryId == categoryId)
