@@ -1,4 +1,6 @@
 using DataAccessLayer;
+using DataAccessLayer.Interface;
+using DataAccessLayer.Repository;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -10,6 +12,8 @@ builder.Services.AddSwaggerGen();
  builder.Services.AddDbContext<ApplicationDbContext>(options =>
             options.UseNpgsql(builder.Configuration.GetConnectionString("DefaultConnection")));
             var app = builder.Build();
+
+builder.Services.AddScoped<ICategoryRepository, CategoryRepository>();
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
