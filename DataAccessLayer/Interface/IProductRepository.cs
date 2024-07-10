@@ -6,8 +6,8 @@ using EntityLayer;
 
 namespace DataAccessLayer.Repository
 {
-    public interface IProduct
+    public interface IProductRepository
     {
-        Task<Product> GetProductAsync(int id);
+        Task<List<Product>> GetAllProducts(int categoryId);
     }
 }
