@@ -13,8 +13,6 @@ builder.Services.AddSwaggerGen();
             options.UseNpgsql(builder.Configuration.GetConnectionString("DefaultConnection")));
             var app = builder.Build();
 
-builder.Services.AddScoped<ICategoryRepository, CategoryRepository>();
-
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
