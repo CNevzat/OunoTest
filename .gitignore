@@ -416,7 +416,8 @@ obj/
 .LSOverride
 
 # Icon must end with two \r
-Icon
+Icon
+
 
 # Thumbnails
 ._*
@@ -458,3 +459,22 @@ Temporary Items
 
 # Custom rules (everything added below won't be overriden by 'Generate .gitignore File' if you use 'Update' option)
 
+OunoWebApi/obj/Debug/net8.0/OunoWebApi.AssemblyInfoInputs.cache
+OunoWebApi/obj/Debug/net8.0/OunoWebApi.AssemblyInfoInputs.cache
+OunoWebApi/obj/Debug/net8.0/OunoWebApi.AssemblyInfoInputs.cache
+OunoWebApi/obj/Debug/net8.0/OunoWebApi.AssemblyInfo.cs
+OunoWebApi/obj/Debug/net8.0/OunoWebApi.assets.cache
+OunoWebApi/obj/Debug/net8.0/OunoWebApi.csproj.AssemblyReference.cache
+OunoWebApi/obj/Debug/net8.0/OunoWebApi.csproj.AssemblyReference.cache
+OunoWebApi/obj/Debug/net8.0/OunoWebApi.csproj.AssemblyReference.cache
+OunoWebApi/obj/Debug/net8.0/OunoWebApi.assets.cache
+OunoWebApi/obj/Debug/net8.0/OunoWebApi.assets.cache
+OunoWebApi/obj/Debug/net8.0/OunoWebApi.assets.cache
+OunoWebApi/obj/Debug/net8.0/OunoWebApi.assets.cache
+OunoWebApi/obj/Debug/net8.0/OunoWebApi.assets.cache
+OunoWebApi/obj/Debug/net8.0/OunoWebApi.assets.cache
+OunoWebApi/obj/Debug/net8.0/OunoWebApi.assets.cache
+OunoWebApi/obj/Debug/net8.0/OunoWebApi.AssemblyInfo.cs
+EntityLayer/obj/Debug/net8.0/EntityLayer.AssemblyInfoInputs.cache
+EntityLayer/obj/Debug/net8.0/EntityLayer.AssemblyInfoInputs.cache
+EntityLayer/obj/Debug/net8.0/EntityLayer.AssemblyInfoInputs.cache
